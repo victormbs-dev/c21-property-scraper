@@ -28,7 +28,7 @@ Web scraper para extracción automatizada de datos de propiedades en venta/renta
 - 📊 Metraje (terreno/construcción)
 - 📊 Amenidades (piscina, jardín, etc.)
 - 📊 Año de construcción
-- ...y [15+ campos más](docs/DATA_FIELDS.md)
+- ...y 15+ campos más
 
 ## Requisitos
 
